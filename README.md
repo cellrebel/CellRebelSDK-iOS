@@ -25,7 +25,7 @@ import CellRebelSDK
 
 Initialize SDK using your unique CLIENT_KEY string:
 ```swift
-let cellrebel = CellRebel(clientKey: "ynsf0bi7ag")
+let cellrebel = CellRebel(clientKey: "CLIENT_KEY")
 ```
 
 Use `startMeasuring` to start measurement:
