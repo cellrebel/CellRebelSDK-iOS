@@ -1,0 +1,24 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CellRebelSDK
+@_exported import CellRebelSDK
+import CoreLocation
+import CoreTelephony
+import Darwin
+import Foundation
+import LocalAuthentication
+import Security
+import Swift
+import SystemConfiguration
+import UIKit
+import _Concurrency
+final public class CellRebel {
+  final public var version: Swift.String {
+    get
+  }
+  public init(clientKey: Swift.String)
+  final public func startMeasuring()
+  final public func stopMeasuring()
+  final public func clearUserData()
+  @objc deinit
+}

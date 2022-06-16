@@ -1,0 +1,11 @@
+framework module CellRebelSDK {
+  umbrella header "CellRebelSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module CellRebelSDK.Swift {
+    header "CellRebelSDK-Swift.h"
+    requires objc
+}
