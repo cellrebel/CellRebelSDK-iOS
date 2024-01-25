@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "Vlad Korzun" => "vlad.korzun@cellrebel.com" }
   spec.source       = { :git => "https://github.com/cellrebel/CellRebelSDK-iOS.git", :tag => "#{spec.version}" }
   spec.platform     = :ios
-  spec.ios.deployment_target = '10.0'
+  spec.ios.deployment_target = '12.0'
   spec.ios.frameworks = 'Security', 'LocalAuthentication', 'CoreTelephony', 'CoreLocation'
 
 
