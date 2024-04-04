@@ -35,7 +35,7 @@ cellrebel.startMeasuring()
 
 In some (rare) cases, if very high load tasks need to be performed, `stopMeasuring` can be used to abort an ongoing measurement sequence:
 ```swift
-TrackingManager.stopMeasuring();
+cellrebel.stopMeasuring();
 ```
 
 If you need to retrieve current version of CellRebelSDK:
