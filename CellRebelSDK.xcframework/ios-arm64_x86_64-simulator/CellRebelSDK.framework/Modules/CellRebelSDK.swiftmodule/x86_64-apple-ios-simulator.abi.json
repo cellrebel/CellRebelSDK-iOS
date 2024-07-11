@@ -7929,329 +7929,329 @@
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 9464,
+      "offset": 9462,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10154,
+      "offset": 10152,
       "length": 21,
       "value": "\"wifiForegroundTimer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10217,
+      "offset": 10215,
       "length": 25,
       "value": "\"wifiMeasurementsEnabled\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10293,
+      "offset": 10291,
       "length": 17,
       "value": "\"fileMeasurement\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10340,
+      "offset": 10338,
       "length": 18,
       "value": "\"serverIdFileLoad\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10444,
+      "offset": 10442,
       "length": 26,
       "value": "\"fileTransferTimeoutTimer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10520,
+      "offset": 10518,
       "length": 30,
       "value": "\"fileTransferPeriodicityTimer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10604,
+      "offset": 10602,
       "length": 39,
       "value": "\"wifiFileTransferForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10732,
+      "offset": 10730,
       "length": 21,
       "value": "\"cdnFileMeasurements\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10781,
+      "offset": 10779,
       "length": 12,
       "value": "\"cdnFileUrl\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10820,
+      "offset": 10818,
       "length": 24,
       "value": "\"cdnFileDownloadTimeout\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10885,
+      "offset": 10883,
       "length": 38,
       "value": "\"cdnFileDownloadForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10968,
+      "offset": 10966,
       "length": 42,
       "value": "\"wifiCdnFileDownloadForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11105,
+      "offset": 11103,
       "length": 27,
       "value": "\"foregroundGameMeasurement\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11177,
+      "offset": 11175,
       "length": 27,
       "value": "\"foregroundGamePeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11248,
+      "offset": 11246,
       "length": 18,
       "value": "\"gameCacheRefresh\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11306,
+      "offset": 11304,
       "length": 18,
       "value": "\"gameServersCache\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11355,
+      "offset": 11353,
       "length": 20,
       "value": "\"gamePingsPerServer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11406,
+      "offset": 11404,
       "length": 18,
       "value": "\"gameTimeoutTimer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11473,
+      "offset": 11471,
       "length": 31,
       "value": "\"wifiGameForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11568,
+      "offset": 11566,
       "length": 23,
       "value": "\"isPageLoadMeasurement\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11620,
+      "offset": 11618,
       "length": 13,
       "value": "\"pageLoadUrl\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11713,
+      "offset": 11711,
       "length": 42,
       "value": "\"pageLoadForegroundPeriodicityMeasurement\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11805,
+      "offset": 11803,
       "length": 35,
       "value": "\"wifiPageLoadForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10154,
+      "offset": 10152,
       "length": 21,
       "value": "\"wifiForegroundTimer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10217,
+      "offset": 10215,
       "length": 25,
       "value": "\"wifiMeasurementsEnabled\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10293,
+      "offset": 10291,
       "length": 17,
       "value": "\"fileMeasurement\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10340,
+      "offset": 10338,
       "length": 18,
       "value": "\"serverIdFileLoad\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10444,
+      "offset": 10442,
       "length": 26,
       "value": "\"fileTransferTimeoutTimer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10520,
+      "offset": 10518,
       "length": 30,
       "value": "\"fileTransferPeriodicityTimer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10604,
+      "offset": 10602,
       "length": 39,
       "value": "\"wifiFileTransferForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10732,
+      "offset": 10730,
       "length": 21,
       "value": "\"cdnFileMeasurements\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10781,
+      "offset": 10779,
       "length": 12,
       "value": "\"cdnFileUrl\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10820,
+      "offset": 10818,
       "length": 24,
       "value": "\"cdnFileDownloadTimeout\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10885,
+      "offset": 10883,
       "length": 38,
       "value": "\"cdnFileDownloadForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 10968,
+      "offset": 10966,
       "length": 42,
       "value": "\"wifiCdnFileDownloadForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11105,
+      "offset": 11103,
       "length": 27,
       "value": "\"foregroundGameMeasurement\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11177,
+      "offset": 11175,
       "length": 27,
       "value": "\"foregroundGamePeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11248,
+      "offset": 11246,
       "length": 18,
       "value": "\"gameCacheRefresh\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11306,
+      "offset": 11304,
       "length": 18,
       "value": "\"gameServersCache\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11355,
+      "offset": 11353,
       "length": 20,
       "value": "\"gamePingsPerServer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11406,
+      "offset": 11404,
       "length": 18,
       "value": "\"gameTimeoutTimer\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11473,
+      "offset": 11471,
       "length": 31,
       "value": "\"wifiGameForegroundPeriodicity\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11568,
+      "offset": 11566,
       "length": 23,
       "value": "\"isPageLoadMeasurement\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11620,
+      "offset": 11618,
       "length": 13,
       "value": "\"pageLoadUrl\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11713,
+      "offset": 11711,
       "length": 42,
       "value": "\"pageLoadForegroundPeriodicityMeasurement\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/User\/Settings.swift",
       "kind": "StringLiteral",
-      "offset": 11805,
+      "offset": 11803,
       "length": 35,
       "value": "\"wifiPageLoadForegroundPeriodicity\""
     },
@@ -45122,7 +45122,7 @@
       "kind": "StringLiteral",
       "offset": 192,
       "length": 7,
-      "value": "\"1.3.2\""
+      "value": "\"1.3.3\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Utils\/Constants.swift",
@@ -51525,730 +51525,737 @@
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 3534,
+      "offset": 3586,
       "length": 46,
       "value": "\"Measurements skipped, settings not available\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 3719,
+      "offset": 3771,
       "length": 22,
       "value": "\"Measurements started\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 3789,
+      "offset": 3841,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 3858,
+      "offset": 3910,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 4393,
+      "offset": 4445,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 5523,
+      "offset": 5575,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 7000,
+      "offset": 7052,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 8620,
+      "offset": 8672,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 8679,
+      "offset": 8731,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 9104,
+      "offset": 9156,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 11144,
+      "offset": 11196,
       "length": 23,
       "value": "\"Measurements finished\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 11227,
+      "offset": 11279,
       "length": 56,
       "value": "\"Measurements skipped, foreground measurements disabled\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 11461,
+      "offset": 11513,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 11548,
+      "offset": 11600,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 11907,
+      "offset": 11959,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 12268,
+      "offset": 12320,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 12415,
+      "offset": 12467,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 12581,
+      "offset": 12633,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 12668,
+      "offset": 12720,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 13115,
+      "offset": 13167,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 13501,
+      "offset": 13553,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 13667,
+      "offset": 13719,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 13830,
+      "offset": 13882,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 13917,
+      "offset": 13969,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 14389,
+      "offset": 14441,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 14805,
+      "offset": 14857,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 14981,
+      "offset": 15033,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 15143,
+      "offset": 15195,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 15230,
+      "offset": 15282,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 15647,
+      "offset": 15699,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 16009,
+      "offset": 16061,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 16167,
+      "offset": 16219,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 16334,
+      "offset": 16386,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 16421,
+      "offset": 16473,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 16873,
+      "offset": 16925,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "FloatLiteral",
-      "offset": 17265,
+      "offset": 17317,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 17433,
+      "offset": 17485,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 17728,
+      "offset": 17780,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 17764,
+      "offset": 17816,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 17966,
+      "offset": 18018,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 18063,
+      "offset": 18115,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 18136,
+      "offset": 18188,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 18442,
+      "offset": 18494,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 18538,
+      "offset": 18590,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 18545,
+      "offset": 18597,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 18625,
+      "offset": 18677,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 18946,
+      "offset": 18998,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 19360,
+      "offset": 19412,
       "length": 4,
       "value": "\"5g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 19497,
+      "offset": 19549,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 19512,
+      "offset": 19564,
       "length": 4,
       "value": "\"4g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 19649,
+      "offset": 19701,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 19664,
+      "offset": 19716,
       "length": 4,
       "value": "\"3g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 19802,
+      "offset": 19854,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 19817,
+      "offset": 19869,
       "length": 4,
       "value": "\"2g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 19953,
+      "offset": 20005,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 19968,
+      "offset": 20020,
       "length": 6,
       "value": "\"wifi\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 20106,
+      "offset": 20158,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 20144,
+      "offset": 20196,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 20333,
+      "offset": 20385,
       "length": 4,
       "value": "\"5g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 20476,
+      "offset": 20528,
       "length": 4,
       "value": "\"4g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 20619,
+      "offset": 20671,
       "length": 4,
       "value": "\"3g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 20763,
+      "offset": 20815,
       "length": 4,
       "value": "\"2g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 20905,
+      "offset": 20957,
       "length": 6,
       "value": "\"wifi\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 21360,
+      "offset": 21412,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 21396,
+      "offset": 21448,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 21590,
+      "offset": 21642,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 21683,
+      "offset": 21735,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 21754,
+      "offset": 21806,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 22051,
+      "offset": 22103,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 22145,
+      "offset": 22197,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 22152,
+      "offset": 22204,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 22303,
+      "offset": 22355,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 22749,
+      "offset": 22801,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 23141,
+      "offset": 23193,
       "length": 4,
       "value": "\"5g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 23269,
+      "offset": 23321,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 23284,
+      "offset": 23336,
       "length": 4,
       "value": "\"4g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 23412,
+      "offset": 23464,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 23427,
+      "offset": 23479,
       "length": 4,
       "value": "\"3g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 23556,
+      "offset": 23608,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 23571,
+      "offset": 23623,
       "length": 4,
       "value": "\"2g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 23698,
+      "offset": 23750,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 23713,
+      "offset": 23765,
       "length": 6,
       "value": "\"wifi\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 23842,
+      "offset": 23894,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "IntegerLiteral",
-      "offset": 23880,
+      "offset": 23932,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 24060,
+      "offset": 24112,
       "length": 4,
       "value": "\"5g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 24194,
+      "offset": 24246,
       "length": 4,
       "value": "\"4g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 24328,
+      "offset": 24380,
       "length": 4,
       "value": "\"3g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 24463,
+      "offset": 24515,
       "length": 4,
       "value": "\"2g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 24596,
+      "offset": 24648,
       "length": 6,
       "value": "\"wifi\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 24971,
+      "offset": 25023,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 25038,
+      "offset": 25090,
       "length": 4,
       "value": "\"5g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "Array",
-      "offset": 25046,
+      "offset": 25098,
       "length": 64,
       "value": "[\"5G\", \"FIVE_G\", \"NR_NSA\", \"NR_NSA_MMWAVE\", \"NR_SA\", \"NR_SA_MMWAVE\"]"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 25172,
+      "offset": 25224,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 25239,
+      "offset": 25291,
       "length": 4,
       "value": "\"4g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "Array",
-      "offset": 25247,
+      "offset": 25299,
       "length": 28,
       "value": "[\"4G\", \"FOUR_G\", \"FOUR_G_CA\"]"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 25337,
+      "offset": 25389,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 25404,
+      "offset": 25456,
       "length": 4,
       "value": "\"3g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "Array",
-      "offset": 25412,
+      "offset": 25464,
       "length": 17,
       "value": "[\"3G\", \"THREE_G\"]"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 25491,
+      "offset": 25543,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 25558,
+      "offset": 25610,
       "length": 4,
       "value": "\"2g\""
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "Array",
-      "offset": 25566,
+      "offset": 25618,
       "length": 15,
       "value": "[\"2G\", \"TWO_G\"]"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 25643,
+      "offset": 25695,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "BooleanLiteral",
-      "offset": 25682,
+      "offset": 25734,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
       "kind": "StringLiteral",
-      "offset": 25936,
+      "offset": 25988,
       "length": 8,
       "value": "\"%02hhx\""
+    },
+    {
+      "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Measurements\/Measurements.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26536,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/vladkorzun\/Documents\/Projects\/ios\/cellrebel-sdk\/CellRebelSDK\/Classes\/Externals\/CryptoSwift\/Checksum.swift",
