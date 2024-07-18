@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5CK4rmX28c5Y6F9AmJ3nA7Sf7h8=
+		ZLzNcRHmx7+4TL881n8TvjoKVRo=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jRHiHYKtXnZPAjdbjQBquMdFgrI=
+		koodXy8ncBXbL9kjCS5foa4ZdSk=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fRvyy+CgDiriV6iKGnDBffcyxBk=
+		bKKgb76U/xRhUzf43jX3hQnAfVs=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		jRHiHYKtXnZPAjdbjQBquMdFgrI=
+		koodXy8ncBXbL9kjCS5foa4ZdSk=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v2Q4xUxhUJShmZKneUR/gbsprxk=
+		d5R65Ph4w/yk6/LOjseGmDE5OIQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FRYn8kehXmbgiVBmn99AiIonadxX2Qef/QTALK5sTKU=
+			9jl5jnQZ39L+BXd6i+3msBptuSwIKZcZlBJ3pxWmPR0=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6jxTgiKMru5PUbVG/dYxLNMeHRT34dSKMVh+7Mv/uK4=
+			FEUElyiX/zzZWGwbDtNfT0jZT6iZ5lwi87yl2Uu8LEc=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FRYn8kehXmbgiVBmn99AiIonadxX2Qef/QTALK5sTKU=
+			9jl5jnQZ39L+BXd6i+3msBptuSwIKZcZlBJ3pxWmPR0=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zr4DKcGW7nPvq/tqa0QKnDIixmJAOjgFQ4fq5cmD5T0=
+			61Wc6WjKaxe3q8qNh+FwcLg6BdpSq6jwK8NDw7qgxhM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
