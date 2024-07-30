@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Eyi6ENaseO3y0fTUa9lssu5+pNE=
+		adD43Xdy5oq4isgiz9RWvgceaBI=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		h/w+/oH1Tmz6bk5rKuckvLxP/6Q=
+		F2hBhwPGqoDH1WAQLC6pZupl68o=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Prhd3NCF/eVjob86djNYaZ6XBgE=
+		k50PkR8NxKRPu4VoooKvRcLzdgQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,7 +65,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AjixAuSL9ybo1AnZwV46dw7I1OdVwHMtbScrEflyqno=
+			O6c+4CM5iiLvTJ+wLF5C0RQ+RXFKspLoQsi0ka4528w=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4t6rVsRXPzbJ1/fSeuAqvQ4PqJSPJ+G6wrIc/1uOlHk=
+			lJDYey2UB/mi5fhhxLcbKSjBkmmHVtjIloZoTs8Ck9w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
