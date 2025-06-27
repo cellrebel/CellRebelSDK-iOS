@@ -11,7 +11,7 @@ You can also navigate to your target’s General pane, and in the “Frameworks,
 
 Use the following entry in your Podfile:
 ```rb
-pod 'CellRebelSDK', '~> 1.3.6'
+pod 'CellRebelSDK', '~> 1.4.0'
 ```
 
 Then run `pod install`.
