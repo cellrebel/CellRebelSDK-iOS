@@ -1,0 +1,16 @@
+PODS:
+  - CellRebelSDK (1.3.6)
+
+DEPENDENCIES:
+  - CellRebelSDK
+
+SPEC REPOS:
+  trunk:
+    - CellRebelSDK
+
+SPEC CHECKSUMS:
+  CellRebelSDK: eb46a12eaf236a445c93198cd7df5dee7d6c7d2a
+
+PODFILE CHECKSUM: fcfdcfe78708cde0ac2059685a5534613015689c
+
+COCOAPODS: 1.16.2
