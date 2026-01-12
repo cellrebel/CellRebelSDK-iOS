@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
-// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name CellRebelSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name CellRebelSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
 @_exported import CellRebelSDK
 import CoreLocation
 import CoreTelephony
@@ -63,6 +63,24 @@ precedencegroup ColumnAssignment {
   lowerThan: AssignmentPrecedence
 }
 infix operator <- : ColumnAssignment
+public enum MeasurementError : Swift.Error {
+  case settings
+  case alreadyRunning
+  case measurementsDisabled
+  public var message: Swift.String {
+    get
+  }
+  public static func == (a: CellRebelSDK.MeasurementError, b: CellRebelSDK.MeasurementError) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public protocol CellRebelEventListener : AnyObject {
+  func onStart(clientId: Swift.String)
+  func onSuccess()
+  func onError(error: CellRebelSDK.MeasurementError)
+}
 @inlinable internal func rotateLeft(_ value: Swift.UInt8, by: Swift.UInt8) -> Swift.UInt8 {
   ((value << by) & 0xff) | (value >> (8 - by))
 }
@@ -269,7 +287,9 @@ final public class CellRebel {
   final public var version: Swift.String {
     get
   }
-  public init(clientKey: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(clientKey: Swift.String, eventListener: (any CellRebelSDK.CellRebelEventListener)? = nil)
+  #endif
   final public func startMeasuring()
   final public func stopMeasuring()
   final public func clearUserData()
@@ -285,21 +305,27 @@ extension Swift.Array {
     self[self.startIndex ..< self.endIndex]
   }
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   @inlinable internal subscript(safe index: Swift.Array<Element>.Index) -> Element? {
     get {
     return indices.contains(index) ? self[index] : nil
   }
   }
+  #endif
 }
 public enum ShortFormVideoSource : Swift.String {
   case tiktok
   case unknown
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
   }
 }
+extension CellRebelSDK.MeasurementError : Swift.Equatable {}
+extension CellRebelSDK.MeasurementError : Swift.Hashable {}
 extension CellRebelSDK.ShortFormVideoSource : Swift.Encodable {}
 extension CellRebelSDK.ShortFormVideoSource : Swift.Decodable {}
 extension CellRebelSDK.ShortFormVideoSource : Swift.Equatable {}

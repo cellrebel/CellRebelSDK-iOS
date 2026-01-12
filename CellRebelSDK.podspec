@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CellRebelSDK"
-  spec.version      = "1.4.0"
+  spec.version      = "1.4.1"
   spec.summary      = "CellRebel iOS SDK"
 
   spec.description  = <<-DESC
