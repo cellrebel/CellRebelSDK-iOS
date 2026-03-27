@@ -277,7 +277,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		64957AAD01ADD124293324D3597F1264 /* Debug */ = {
+		1FBE8D31B69D231E072A05782FB4CD04 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 92C2E89EC2CEF07B69818C2B687D2438 /* CellRebelSDK.debug.xcconfig */;
 			buildSettings = {
@@ -285,7 +285,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -462,6 +462,25 @@
 			};
 			name = Debug;
 		};
+		D227B50F56FD02506D322E0B16823724 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B39D21DCE36930AAECF73A5C230B071A /* CellRebelSDK.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 		EC7D70FBB2C0452AE970A4C233C5E9B3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 056C11651D9181CFD60992F50710A1E6 /* Pods-demo.release.xcconfig */;
@@ -502,33 +521,14 @@
 			};
 			name = Release;
 		};
-		F97AD3C45F88EFEB563DAB1CEBC93BE0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B39D21DCE36930AAECF73A5C230B071A /* CellRebelSDK.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		35AA9BF79896879CFA8AE68FBD248078 /* Build configuration list for PBXAggregateTarget "CellRebelSDK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				64957AAD01ADD124293324D3597F1264 /* Debug */,
-				F97AD3C45F88EFEB563DAB1CEBC93BE0 /* Release */,
+				1FBE8D31B69D231E072A05782FB4CD04 /* Debug */,
+				D227B50F56FD02506D322E0B16823724 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
