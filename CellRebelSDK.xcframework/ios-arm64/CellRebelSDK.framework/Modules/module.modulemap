@@ -7,5 +7,4 @@ framework module CellRebelSDK {
 
 module CellRebelSDK.Swift {
   header "CellRebelSDK-Swift.h"
-  requires objc
 }

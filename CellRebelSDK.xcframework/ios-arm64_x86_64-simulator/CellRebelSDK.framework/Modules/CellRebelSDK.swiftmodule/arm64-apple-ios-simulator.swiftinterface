@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
-// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name CellRebelSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
+// swift-compiler-version: Apple Swift version 6.3.2 effective-5.10 (swiftlang-6.3.2.1.108 clang-2100.1.1.101)
+// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name CellRebelSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.3.2
 @_exported import CellRebelSDK
 import CoreLocation
 import CoreTelephony
@@ -206,9 +206,7 @@ extension Swift.UInt32 {
     self = val0 | val1 | val2 | val3
   }
 }
-#if compiler(>=5.3) && $NonescapableTypes
 public func checkSum(ptr: Swift.UnsafeRawBufferPointer, skip: Swift.Range<Swift.Int>? = nil) -> Swift.UInt16
-#endif
 public class Pinger {
   public struct Response {
     public var len: Swift.Int
@@ -229,17 +227,13 @@ public class Pinger {
   final public let remoteAddr: CellRebelSDK.IPAddr
   public init(remoteAddr: CellRebelSDK.IPAddr) throws
   @objc deinit
-  #if compiler(>=5.3) && $NonescapableTypes
   public func ping(packetSize: Swift.Int? = nil, hopLimit: Swift.UInt8? = nil, timeOut: Foundation.TimeInterval = 1.0, callback: @escaping CellRebelSDK.Pinger.PingCallback)
-  #endif
 }
 public enum IPAddr {
   case ipv4(Darwin.in_addr)
   case ipv6(Darwin.in6_addr)
   public func createSockStorage(port: _DarwinFoundation2.in_port_t = 0) -> Darwin.sockaddr_storage
-  #if compiler(>=5.3) && $NonescapableTypes
   public static func create(_ addrss: Swift.String, addressFamily: CellRebelSDK.IPAddr.AddressFamily) -> CellRebelSDK.IPAddr?
-  #endif
   public enum AddressFamily {
     case ipv4
     case ipv6
@@ -267,9 +261,7 @@ extension CellRebelSDK.IPAddr {
   public static func resolve(domainName: Swift.String, addressFamily: CellRebelSDK.IPAddr.AddressFamily = .ipv4) throws -> [CellRebelSDK.IPAddr]
 }
 extension Darwin.sockaddr_storage {
-  #if compiler(>=5.3) && $NonescapableTypes
   public func toIPAddr() -> CellRebelSDK.IPAddr?
-  #endif
 }
 extension Darwin.in_addr : Swift.CustomStringConvertible {
   public var description: Swift.String {
@@ -299,9 +291,7 @@ extension CellRebelSDK.Pinger {
     public var hop: Swift.UInt8
     public var packetIndex: Swift.UInt8
   }
-  #if compiler(>=5.3) && $NonescapableTypes
   public func trace(packetSize: Swift.Int? = nil, initHop: Swift.UInt8 = 1, maxHop: Swift.UInt8 = 64, packetCount: Swift.UInt8 = 3, timeOut: Foundation.TimeInterval = 1.0, tracePacketCallback: ((_ packetResult: CellRebelSDK.Pinger.TracePacketResult, _ stopTrace: (Swift.Bool) -> Swift.Void) -> Swift.Void)?, onTraceComplete: ((_ result: [Swift.UInt8 : [CellRebelSDK.Pinger.PingResult]], _ orderedHops: [Swift.UInt8], _ status: CellRebelSDK.Pinger.TraceStatus) -> Swift.Void)?)
-  #endif
 }
 @_specialize(exported: false, kind: full, where T == Swift.Int)
 @_specialize(exported: false, kind: full, where T == Swift.UInt)
@@ -387,9 +377,7 @@ final public class CellRebel {
   final public var version: Swift.String {
     get
   }
-  #if compiler(>=5.3) && $NonescapableTypes
   public init(clientKey: Swift.String, eventListener: (any CellRebelSDK.CellRebelEventListener)? = nil)
-  #endif
   final public func startMeasuring()
   final public func stopMeasuring()
   final public func clearUserData()
@@ -405,20 +393,16 @@ extension Swift.Array {
     self[self.startIndex ..< self.endIndex]
   }
   }
-  #if compiler(>=5.3) && $NonescapableTypes
   @inlinable internal subscript(safe index: Swift.Array<Element>.Index) -> Element? {
     get {
     return indices.contains(index) ? self[index] : nil
   }
   }
-  #endif
 }
 public enum ShortFormVideoSource : Swift.String {
   case tiktok
   case unknown
-  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
-  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
