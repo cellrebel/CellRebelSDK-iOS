@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TdjVhjuNROc9dL05r4DWWBjrEhU=
+		rc+xwZDpzHZychEG4jalHknMZik=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		oFGx/EkBZ5mwzdI7Kt4JhH+SBIs=
+		JuD5Fc6nRMBmV3tinLVd3+Kt0KA=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		I6+HRv7keQqf2KROTlhnyFml2Q0=
+		2qUccz3VazrdZa6d0EZ5qZqVsT4=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		oFGx/EkBZ5mwzdI7Kt4JhH+SBIs=
+		JuD5Fc6nRMBmV3tinLVd3+Kt0KA=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nUiCvZRq3OKB8S1Cz+xi5A/jm3g=
+		DeHSKgWqEgigfSB89jpgn/498A4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/yT0BdBcDp4BE2q1MYpB90+PiAgY2AbpQXXreiybMbY=
+			oKOAxLJGyejjGN2j35Xlqo4m4B+bFweBrNP7f+K7Ddo=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c0md+lb2vZm6xohmaEx8NCHU7j3/IAb5I18+Z0XqeW4=
+			pCFN5oTgjEzr9aqoa0AOY0d7CO/VX1MHFYmY5MyjMPE=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/yT0BdBcDp4BE2q1MYpB90+PiAgY2AbpQXXreiybMbY=
+			oKOAxLJGyejjGN2j35Xlqo4m4B+bFweBrNP7f+K7Ddo=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rp28vrRBlpGDX2zNkbCNGNSGbjxXHGEtbAP0PY2n97I=
+			IFVB5rTbdOXaawMdjCaZL/TomBRsPAbPYtlxXc+gto8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
