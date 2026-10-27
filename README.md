@@ -11,7 +11,7 @@ You can also navigate to your target’s General pane, and in the “Frameworks,
 
 Use the following entry in your Podfile:
 ```rb
-pod 'CellRebelSDK', :git => 'https://github.com/cellrebel/CellRebelSDK-iOS.git', :tag => '1.5.2-beta'
+pod 'CellRebelSDK', :git => 'https://github.com/cellrebel/CellRebelSDK-iOS.git', :tag => '1.6.0-beta'
 ```
 
 Then run `pod install`.

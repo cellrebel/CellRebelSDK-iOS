@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rc+xwZDpzHZychEG4jalHknMZik=
+		I08y5fCbn/QA9d3hDS6ymTducTo=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JuD5Fc6nRMBmV3tinLVd3+Kt0KA=
+		fKKyrl5kFGv+9pWIz3Uu4dbBw+o=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lXkwLAEd/spDJr/HKwk7N+JtQC4=
+		hxxKyTAU6K2rsSJoJ2bg2ONvhbI=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cKKI8vwiOX0hdrAR0CXg3ZveU7Q=
+		li31aluVJ27viz3qwFYeS8PAAYo=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lXkwLAEd/spDJr/HKwk7N+JtQC4=
+		hxxKyTAU6K2rsSJoJ2bg2ONvhbI=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2qUccz3VazrdZa6d0EZ5qZqVsT4=
+		vFK8dLFzf+Z9HNvJgW2I55PmkN8=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JuD5Fc6nRMBmV3tinLVd3+Kt0KA=
+		fKKyrl5kFGv+9pWIz3Uu4dbBw+o=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5s4Cr8CIKy+h3Ckk03TjGSDvMx4=
+		ed3tB1afECH86YTRgK06wrTjbO0=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TNrnVZxm/ybVYobrT/C0w/arrA0=
+		ZEKVVVpjZaXJwejPokmc/Y7nS2Q=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5s4Cr8CIKy+h3Ckk03TjGSDvMx4=
+		ed3tB1afECH86YTRgK06wrTjbO0=
 		</data>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DeHSKgWqEgigfSB89jpgn/498A4=
+		cDUTtg3EZj3jlHkbxDhaOtyiuHg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,70 +85,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oKOAxLJGyejjGN2j35Xlqo4m4B+bFweBrNP7f+K7Ddo=
+			ifQth+qCdCEmuR3p5mPj2+F6nZaP4QnY6qhwZRLZ+N0=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			99KCBAKt74/DNcmidcHDnnaCZN6qmugkKSnH47dzOAw=
+			BEcDz0rUH7gHXlhOrB20YX8qW5/YtU/BVJfr2UMeutA=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M8/GJ7bnLtTb5SibS04Lc3+wkpEIa4cd/gsYvUVSpvE=
+			m9Lu/lssHiZL+4DallDuzS7tgnORC9cCGFO5YnK6cTM=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			99KCBAKt74/DNcmidcHDnnaCZN6qmugkKSnH47dzOAw=
+			BEcDz0rUH7gHXlhOrB20YX8qW5/YtU/BVJfr2UMeutA=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pCFN5oTgjEzr9aqoa0AOY0d7CO/VX1MHFYmY5MyjMPE=
+			VBhEIZ9snNuU0jULpjRhJEFU5Aiu4iecPDsXHJqAgK4=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oKOAxLJGyejjGN2j35Xlqo4m4B+bFweBrNP7f+K7Ddo=
+			ifQth+qCdCEmuR3p5mPj2+F6nZaP4QnY6qhwZRLZ+N0=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+nINdnXI4oC9pEIyYb7dPOH49xup/yNUrost+1MfjzA=
+			fO2cV952C3xmx7brYYmhE49AOAG9/t8gRIL80dKgCpE=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V53IOtdH2VJP7t9C8rLqAlHvueAaI8k5M2FX3ymMCgE=
+			vNz+i2c/PusJ/n8i9Iirqxf8+ATAft+0vWtJ7nTzQgo=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+nINdnXI4oC9pEIyYb7dPOH49xup/yNUrost+1MfjzA=
+			fO2cV952C3xmx7brYYmhE49AOAG9/t8gRIL80dKgCpE=
 			</data>
 		</dict>
 		<key>Modules/CellRebelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFVB5rTbdOXaawMdjCaZL/TomBRsPAbPYtlxXc+gto8=
+			zptWUiMEW9bJDpytCHCybWpQUwMAQnTFuJXU/TdStHM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
