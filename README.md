@@ -40,7 +40,7 @@ cellrebel.stopMeasuring();
 
 ## GPS truncation
 
-Since 1.6.0, you can reduce the precision of the location the SDK collects. While truncation is enabled, latitude and longitude are truncated toward zero to 2 decimal places (about 1 km) before they are stored or sent, and each measurement reports `isGpsTruncated = true`:
+Since 1.6.0, you can reduce the precision of the location the SDK collects. While truncation is enabled, latitude and longitude are truncated toward zero to 2 decimal places before they are stored or sent:
 ```swift
 cellrebel.isGPSTruncationEnabled = true
 ```
