@@ -377,6 +377,10 @@ final public class CellRebel {
   final public var version: Swift.String {
     get
   }
+  final public var isGPSTruncationEnabled: Swift.Bool {
+    get
+    set
+  }
   public init(clientKey: Swift.String, eventListener: (any CellRebelSDK.CellRebelEventListener)? = nil)
   final public func startMeasuring()
   final public func stopMeasuring()
